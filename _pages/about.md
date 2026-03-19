@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: MIT Math & CS '28.
+subtitle: MIT Course 6-5 & 18 '28.
 
 profile:
   align: right
@@ -27,4 +27,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hey there! I'm Alec — a sophomore at MIT double majoring in Computer Science (6-3) , and I spend a lot of time thinking about multimodal LLMs. 🧠✨
+Hey there! I'm Alec from the Bay Area. I'm currently a sophomore at MIT, double majoring in Electrical Engineering & Computer Science (Course 6-5) and Mathematics (Course 18). I previously completed a software engineering internship at NVIDIA. I spend a lot of time thinking about multimodal LLMs. 🧠✨

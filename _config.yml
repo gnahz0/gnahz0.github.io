@@ -6,6 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Alec
 middle_name: 
 last_name: Zhang
+x_username: gnahz0_ # X/Twitter handle for meta tags (no @)
 contact_note: >
   You can even add a little note about which of these is the best way to reach you.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
