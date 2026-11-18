@@ -2,29 +2,9 @@
 layout: about
 title: About
 permalink: /
-subtitle: MIT Course 6-5 & 18 '28.
-
-profile:
-  align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
-
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: false # includes social icons at the bottom of the page
-
-announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
-
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+subtitle: MIT · Class of 2028
 ---
 
-Hey there! I'm Alec from the Bay Area. I'm currently a sophomore at MIT, double majoring in Electrical Engineering & Computer Science (Course 6-5) and Mathematics (Course 18). I previously completed a software engineering internship at NVIDIA. I spend a lot of time thinking about multimodal LLMs. 🧠✨
+Hey, I'm Alec. I'm an MIT junior studying computer science and math (Courses 6-3 and 18), currently taking a gap semester. I'm an incoming research intern at Phonic and previously interned on NVIDIA's datacenter software team.
+
+I'm mainly interested in post-training multimodal models. At MIT CSAIL, I worked on context compression for recursive language models. At the MIT Media Lab, I worked on training vision-language models to use audio and sensor data.
