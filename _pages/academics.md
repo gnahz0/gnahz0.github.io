@@ -4,6 +4,7 @@ title: Academics
 permalink: /academics/
 nav: true
 nav_order: 9
+footer_fixed: false
 ---
 
 Selected technical coursework at MIT.
@@ -33,4 +34,8 @@ Selected technical coursework at MIT.
 
 Calculus, differential equations, linear algebra, real analysis, and probability.
 
-18.022, 18.03, 18.06, 18.100B, 18.600
+- **18.022**
+- **18.03**
+- **18.06**
+- **18.100B**
+- **18.600**

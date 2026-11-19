@@ -11,7 +11,11 @@
   {% endif %}
 {% endcapture %}
 
-{% if site.footer_fixed %}
+{% assign show_fixed_footer = site.footer_fixed %}
+{% if include.fixed != nil %}
+  {% assign show_fixed_footer = include.fixed %}
+{% endif %}
+{% if show_fixed_footer %}
   <footer class="fixed-bottom" role="contentinfo">
     <div class="container mt-0">
       {{ footer_contents }}
