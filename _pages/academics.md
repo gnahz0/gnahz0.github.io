@@ -32,10 +32,8 @@ Selected technical coursework at MIT.
 ## Mathematics
 {: .border-left .border-info .pl-3 }
 
-Calculus, differential equations, linear algebra, real analysis, and probability.
-
-- **18.022**
-- **18.03**
-- **18.06**
-- **18.100B**
-- **18.600**
+- **18.022** Multivariable Calculus
+- **18.03** Differential Equations
+- **18.06** Linear Algebra
+- **18.100B** Real Analysis
+- **18.600** Probability and Random Variables
